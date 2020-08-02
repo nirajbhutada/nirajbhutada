@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to paint, Note collection
+- ⚡ Fun fact: I love to paint, Currency collection
 
 ### Connect with me:
 
