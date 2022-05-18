@@ -2,12 +2,7 @@
 
 ### Hi there, I'm Niraj R Bhutada -  [nirajbhutada][website] 👋
 
-## I'm a Husband, Father, Developer, and Artist!
-- 🔭 I’m currently working as a Full Stack Developer!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to paint, Collect old currency
+
 
 ### Connect with me:
 
