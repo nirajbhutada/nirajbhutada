@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Niraj R Bhutada -  [nirajbhutada][website] 👋
+### Hi there, I'm Niraj R Bhutada - I am a Technology Specialist and Content creator. I am from india, living in Pune & working at Cognizant. [nirajbhutada][website] 👋
 
 
 
